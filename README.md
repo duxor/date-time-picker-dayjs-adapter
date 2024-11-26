@@ -23,12 +23,12 @@ https://github.com/danielmoncada/date-time-picker
 How to Use
 -------
 
- 1. Install with [npm](https://www.npmjs.com):`npm install @danielmoncada/angular-datetime-picker-dayjs-adapter --save`
+ 1. Install with [npm](https://www.npmjs.com):`npm install @duxor/angular-datetime-picker-dayjs-adapter --save`
  2. 
     ```typescript
     import { NgModule } from '@angular/core';
-    import { OwlDateTimeModule, OWL_DATE_TIME_FORMATS} from '@danielmoncada/angular-datetime-picker;
-    import { OwlDayJsDateTimeModule } from '@danielmoncada/angular-datetime-picker-dayjs-adapter';
+    import { OwlDateTimeModule, OWL_DATE_TIME_FORMATS} from '@danielmoncada/angular-datetime-picker';
+    import { OwlDayJsDateTimeModule } from '@duxor/angular-datetime-picker-dayjs-adapter';
 
     // See the Day.js docs for the meaning of these formats:
     // https://day.js.org/docs/en/display/format
@@ -69,4 +69,4 @@ License
 
 Author
 -------
-**Maintained and updated by Daniel Moncada, original implementatiom by Daniel Pan**
+**Maintained and updated by Dusan Perisic original implementation by Daniel Pan and Daniel Moncada**

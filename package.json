@@ -1,6 +1,6 @@
 {
-  "name": "@danielmoncada/angular-datetime-picker-dayjs-adapter",
-  "version": "3.0.0",
+  "name": "@duxor/angular-datetime-picker-dayjs-adapter",
+  "version": "3.0.1",
   "description": "Angular Date Time Picker (DayJs Adapter)",
   "keywords": [
     "Angular",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielmoncada/date-time-picker-dayjs-adapter.git"
+    "url": "https://github.com/duxor/date-time-picker-dayjs-adapter.git"
   },
   "dependencies": {
     "@angular/animations": "^17.0.4",
